@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946524886850",
+    "project_id": "ecommerceorange-7017c",
+    "storage_bucket": "ecommerceorange-7017c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946524886850:android:ac68ffd1e5dc6a92945adb",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceorange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGavUOBYxD10K97UpFdsFW--VNmZV6f0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
